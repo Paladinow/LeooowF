@@ -5,5 +5,6 @@ Opa! Meu nome é Leo Freitas, tenho 18 anos e eu comecei a programar por volta d
 
 # 💼 Meus meios de contato!
 Se quiser falar comigo ou tiver alguma sugestão/proposta a respeito do meu trabalho, basta me contatar nessas redes sociais:
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941099641682931792)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeooowF)

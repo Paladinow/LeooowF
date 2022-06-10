@@ -1,16 +1,9 @@
-# Hey, guys! What's up? 👋
+[![wakatime](https://wakatime.com/badge/user/42755b9a-f180-48a0-ab74-97675a1e8e3e.svg)](https://wakatime.com/@42755b9a-f180-48a0-ab74-97675a1e8e3e)
 
-My name is Leo Freitas, here you will find one of the greatest passions of my life, programming, where I am always looking for more knowledge and trying to evolve.
+# 🧑‍💻 Me conheça melhor!
+Opa! Meu nome é Leo Freitas, tenho 18 anos e eu comecei a programar por volta do ano passado, antes eu era exclusivamente configurador de servidores de minecraft até ter curiosidade sobre programação e começar a aprender sobre Java e a criação de plugins com a api Bukkit.
 
-### Languages
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leooowf&layout=compact&theme=material-palenight&hide_title=true&langs_count=10)
-
-### Contributions
-
-![Github Contributions](https://github-readme-stats.vercel.app/api?username=leooowf&theme=material-palenight&show_icons=true&hide_title=true&count_private=true)
-
-### Contacts
-
+# 💼 Meus meios de contato!
+Se quiser falar comigo ou tiver alguma sugestão/proposta a respeito do meu trabalho, basta me contatar nessas redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/941099641682931792)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeooowF)

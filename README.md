@@ -1,4 +1,4 @@
-[![wakatime]([https://wakatime.com/badge/user/42755b9a-f180-48a0-ab74-97675a1e8e3e.svg](https://wakatime.com/badge/user/42755b9a-f180-48a0-ab74-97675a1e8e3e.svg))](https://wakatime.com/@42755b9a-f180-48a0-ab74-97675a1e8e3e)
+[![wakatime](https://wakatime.com/badge/user/42755b9a-f180-48a0-ab74-97675a1e8e3e.svg)](https://wakatime.com/@42755b9a-f180-48a0-ab74-97675a1e8e3e)
 
 # 🧑‍💻 Me conheça melhor!
 Opa! Meu nome é Leo Freitas, tenho 18 anos e eu comecei a programar por volta do ano passado, antes eu era exclusivamente configurador de servidores de minecraft até ter curiosidade sobre programação e começar a aprender sobre Java e a criação de plugins com a api Bukkit.
